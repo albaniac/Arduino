@@ -1,3 +1,4 @@
+// Implements PIR to control a LED strip
 
 #include <SPI.h>
 #include <MySensor.h>  
